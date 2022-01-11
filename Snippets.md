@@ -1,7 +1,7 @@
 # Präsentation Bootstrap 
 
 #### Vorstellung:	
-- Theorie 		--> Niklas
+- Theorie 		--> URL zur Präsentation folgt ()
 - Codetemplate 	--> Homepage einer Chat App mit Profil und Login
 
 #### Relations: 
